@@ -1,0 +1,1 @@
+{"version":3,"file":"policy-model.js","sourceRoot":"","sources":["../../dev/models/policy-model.ts"],"names":[],"mappings":";;AAAA,qCAAqC;AAIxB,QAAA,YAAY,GAAG,IAAI,QAAQ,CAAC,MAAM,CAAE;IAEjD,YAAY,EAAE;QACd,IAAI,EAAE,IAAI;KACT;IACD,WAAW,EAAE;QACb,IAAI,EAAE,IAAI;KACT;IACD,MAAM,EAAE;QACR,IAAI,EAAE,MAAM;KACX;IACD,MAAM,EAAE;QACR,IAAI,EAAE,MAAM;KACX;CAEA,CAAC,CAAC"}
